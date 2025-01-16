@@ -31,11 +31,14 @@ The code is exactly simmilar for both folders, the only difference is the number
 
 ## Some Results
 **Images are generated manually**
-![ad](new_data_preprocess_22\images\graph_ad.png)
-*Fig: Most frequents features for Alzheimer's Disease class*
+![ad](https://github.com/alfahadarc/AD-TreeSHAP/blob/main/new_data_preprocess_22/images/graph_ad.png)
 
-![cn](new_data_preprocess_22\images\graph_cn.png)
-*Fig: Most frequents features for Cognitive-Normal class*
+*Fig: Most frequents features for Alzheimer's Disease class and their inetraction values*
 
-![mci](new_data_preprocess_22\images\graph_mci.png)
-*Fig: Most frequents features for Mild Cognitive Impairment class*
+![cn](https://github.com/alfahadarc/AD-TreeSHAP/blob/main/new_data_preprocess_22/images/graph_cn.png)
+
+*Fig: Most frequents features for Cognitive-Normal class and their inetraction values*
+
+![mci](https://github.com/alfahadarc/AD-TreeSHAP/blob/main/new_data_preprocess_22/images/graph_mci.png)
+
+*Fig: Most frequents features for Mild Cognitive Impairment class and their inetraction values*
